@@ -41,7 +41,7 @@
 		84A94BC42C297B8B00AA7AD0 = {
 			isa = PBXGroup;
 			children = (
-				84A94BCF2C297B8B00AA7AD0 /* firstProjectC++ */,
+				84A94BCF2C297B8B00AA7AD0 /* Pointers_C++ */,
 				84A94BCE2C297B8B00AA7AD0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -54,12 +54,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		84A94BCF2C297B8B00AA7AD0 /* firstProjectC++ */ = {
+		84A94BCF2C297B8B00AA7AD0 /* Pointers_C++ */ = {
 			isa = PBXGroup;
 			children = (
 				84A94BD02C297B8B00AA7AD0 /* main.cpp */,
 			);
-			path = "firstProjectC++";
+			path = "Pointers_C++";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
